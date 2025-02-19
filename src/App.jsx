@@ -1,7 +1,6 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import Home from './components/HomePage/Home';
-import Quiz from './components/QuizPage/Quiz';
 import Questions from './utils/quiz.json';
 import QuizContainer from './components/QuizPage/QuizContainer';
 
