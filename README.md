@@ -17,10 +17,10 @@ An interactive quiz platform with instant feedback and progress tracking.
 - IndexedDB (for local storage)
 
 ## Installation and Setup
-1. Clone the repository: 
+1. Clone the repository: `git clone https://github.com/harishghorui/Quiz-Master.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
 4. Open http://localhost:5173 in your browser
 
 ## Live Demo
-[View the live application](your-deployment-url-here)
+[View the live application](https://quizmaster-idb.netlify.app/)
